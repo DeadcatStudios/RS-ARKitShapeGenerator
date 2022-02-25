@@ -8,6 +8,7 @@ somewhat close......i think
 Blender Addon Creates a ARKit Pose List and generate shapekeys from poses
 
 Installation:
+
 -got to blender/preferences/addons
 -press install
 -select the py File
@@ -15,6 +16,7 @@ Installation:
 
 
 how to use:
+
 -select the armature you want to create the ARkit Face poses for
 -in the item tab in the 3DView press generate Pose List
 
