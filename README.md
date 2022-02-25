@@ -9,24 +9,27 @@ Blender Addon Creates a ARKit Pose List and generate shapekeys from poses
 
 Installation:
 
--got to blender/preferences/addons
--press install
--select the py File
--enable the plugin
-
+- got to blender/preferences/addons
+- press install
+- select the py File
+- enable the plugin
+	
+![image](https://github.com/DeadcatStudios/RS-ARKitShapeGenerator/blob/main/Addons.png?raw=true)
 
 how to use:
 
--select the armature you want to create the ARkit Face poses for
--in the item tab in the 3DView press generate Pose List
+- select the armature you want to create the ARkit Face poses for
+- in the item tab in the 3DView press generate Pose List
 
 a action will be created with pose markers for each ARKit shape you want to fill
 
--after creating all of your poses, select the skinned meshes you want to create the shapes keys for
--press the "generate shape keys" button
+
+![image](https://github.com/DeadcatStudios/RS-ARKitShapeGenerator/blob/main/Show%20pose%20markers.png?raw=true)
+
+- after creating all of your poses, select the skinned meshes you want to create the shapes keys for
+- press the "generate shape keys" button
+![image](https://github.com/DeadcatStudios/RS-ARKitShapeGenerator/blob/main/GenerateShapeKeys.png?raw=true)
 
 "aaaannnnnndd......you'r done" -RoyalSkies
 
-
-
-ive only tested the script on one rig so your milage may vary
+i've only tested the script on one rig so your milage may vary
